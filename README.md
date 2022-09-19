@@ -6,7 +6,7 @@
 
 
 # Nuno Brito
-<sub>*Data Scientist*
+<sub>**Data Scientist**
 
 Apaixonado por tecnologia, e caminho de uma grande jornada de aprendizado para ser um melhor Data Scientist.
 
