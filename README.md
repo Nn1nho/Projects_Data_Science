@@ -8,7 +8,7 @@
 # Nuno Brito
 <sub>*Data Scientist
 
-Apaixonado por tecnologia, e caminho de uma grande jornada de aprendizado para ser o melhor Data Scientist.
+Apaixonado por tecnologia, e caminho de uma grande jornada de aprendizado para ser um melhor Data Scientist.
 
 **Background in:** Python, Data Storytelling
 
