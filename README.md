@@ -8,8 +8,13 @@
 # Nuno Brito
 <sub>**Data Scientist**
 
-Apaixonado por tecnologia, e caminho de uma grande jornada de aprendizado para ser um melhor Data Scientist.
+Apesar de nunca ter sido um profissional de tecnologia, desde cedo tinha o gosto pela área. Nos últimos tempos comecei a pensar que estava no momento ideal para me educar e conseguir trabalhar nesta área. Descobri que a melhor forma para começar era ser um auto-didata de uma linguagem (neste caso o Python) para conseguir abrir algumas portas para o meu futuro. 
 
+Pelo caminho, tirar um curso de Finanças (Mil ao Milhão 3.0 com Thiago Nigro) , para além de me ajudar imenso nessa área no meu lado pessoal, adquiri também algumas competências que me irão ajudar futuramente.
+
+Estou em constante busca pelo aprimoramento dos conhecimentos em Inteligência Artifical, Business Intelligence , Negócios e Comunicação, com o objetivo de mostrar a pérola que encontro em todos os dados. Só desta forma conseguirei ter uma tomada de decisão neles baseada.
+
+Amo compartilhar conhecimento e coloco isso em prática , tentando ajudar sempre as pessoas mais próximas.
 **Background in:** Python, Data Storytelling
 
 **Links:**
