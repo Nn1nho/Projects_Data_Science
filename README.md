@@ -15,7 +15,8 @@ Pelo caminho, tirar um curso de Finanças (Mil ao Milhão 3.0 com Thiago Nigro) 
 Estou em constante busca pelo aprimoramento dos conhecimentos em Inteligência Artifical, Business Intelligence , Negócios e Comunicação, com o objetivo de mostrar a pérola que encontro em todos os dados. Só desta forma conseguirei ter uma tomada de decisão neles baseada.
 
 Amo compartilhar conhecimento e coloco isso em prática , tentando ajudar sempre as pessoas mais próximas.
-**Background in:** Python, Data Storytelling
+
+  **Background in:** Python, Data Storytelling
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/nunobriito/)
