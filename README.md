@@ -24,5 +24,5 @@ Amo compartilhar conhecimento e coloco isso em prática , tentando ajudar sempre
 * [Twitter]()
 
 ## Projetos:
-Incoming....
+[Análise de dados Airbnb- Mallorca](https://github.com/nunobriito/Projects/blob/main/An%C3%A1lise_de_dados_Airbnb_Mallorca.ipynb)
 
