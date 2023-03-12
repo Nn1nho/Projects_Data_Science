@@ -16,7 +16,7 @@ Estou em constante busca pelo aprimoramento dos conhecimentos em Inteligência A
 
 Amo compartilhar conhecimento e coloco isso em prática , tentando ajudar sempre as pessoas mais próximas.
 
-  **Background in:** Python, Data Storytelling
+  **Background in:** Python, Data Storytelling, Power BI
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/nunobriito/)
