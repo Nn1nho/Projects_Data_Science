@@ -1,0 +1,26 @@
+| Método/Função             | Parâmetro         | Exemplo de Uso                       | Explicação                                                        |
+|--------------------------|-------------------|--------------------------------------|-------------------------------------------------------------------|
+| `plt.plot()`             | `color`           | `plt.plot(x, y, color='red')`         | Cor da linha do gráfico.                                           |
+|                          | `linestyle`       | `plt.plot(x, y, linestyle='--')`      | Estilo da linha do gráfico.                                        |
+|                          | `linewidth`       | `plt.plot(x, y, linewidth=2)`         | Largura da linha do gráfico.                                       |
+| `plt.scatter()`          | `s`               | `plt.scatter(x, y, s=50)`             | Tamanho dos pontos no gráfico de dispersão.                        |
+|                          | `c`               | `plt.scatter(x, y, c='blue')`         | Cor dos pontos no gráfico de dispersão.                            |
+|                          | `alpha`           | `plt.scatter(x, y, alpha=0.5)`         | Transparência dos pontos no gráfico de dispersão.                  |
+| `plt.bar()`              | `x`               | `plt.bar(x, height)`                  | Valores das coordenadas x dos retângulos das barras.               |
+|                          | `height`          |                                      | Altura das barras.                                                 |
+|                          | `color`           | `plt.bar(x, height, color='green')`    | Cor das barras.                                                    |
+| `plt.hist()`             | `x`               | `plt.hist(x, bins=10)`                | Valores dos dados a serem histogramados.                           |
+|                          | `bins`            |                                      | Número de intervalos (bins) do histograma.                         |
+|                          | `color`           | `plt.hist(x, bins=10, color='yellow')` | Cor das barras do histograma.                                      |
+| `plt.pie()`              | `x`               | `plt.pie(x, labels=labels)`            | Valores dos dados para o gráfico de pizza.                         |
+|                          | `labels`          |                                      | Rótulos dos setores do gráfico de pizza.                           |
+|                          | `colors`          | `plt.pie(x, labels=labels, colors=colors)` | Cores dos setores do gráfico de pizza.                          |
+| `plt.boxplot()`          | `x`               | `plt.boxplot(x)`                      | Valores dos dados para o gráfico de boxplot.                       |
+|                          | `labels`          |                                      | Rótulos dos eixos x do gráfico de boxplot.                         |
+|                          | `notch`           | `plt.boxplot(x, notch=True)`           | Indica se o gráfico de boxplot deve ter uma entalhe (notch) na caixa. |
+| `plt.xlabel()`           | `label`           | `plt.xlabel('Eixo X')`                | Texto do rótulo do eixo x.                                         |
+| `plt.ylabel()`           | `label`           | `plt.ylabel('Eixo Y')`                | Texto do rótulo do eixo y.                                         |
+| `plt.title()`            | `label`           | `plt.title('Título do Gráfico')`       | Texto do título do gráfico.                                        |
+| `plt.legend()`           | `labels`          | `plt.legend(labels)`                  | Rótulos das legendas.                                              |
+| `plt.grid()`             | `axis`            | `plt.grid(axis='both')`               | Eixos nos quais as linhas de grade serão desenhadas.               |
+|                          | `color`           |                                      | Cor das linhas de grade.                                           |
