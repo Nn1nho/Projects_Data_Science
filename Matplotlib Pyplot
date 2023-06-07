@@ -1,26 +1,26 @@
-| Método/Função             | Parâmetro         | Exemplo de Uso                       | Explicação                                                        |
-|--------------------------|-------------------|--------------------------------------|-------------------------------------------------------------------|
-| `plt.plot()`             | `color`           | `plt.plot(x, y, color='red')`         | Cor da linha do gráfico.                                           |
-|                          | `linestyle`       | `plt.plot(x, y, linestyle='--')`      | Estilo da linha do gráfico.                                        |
-|                          | `linewidth`       | `plt.plot(x, y, linewidth=2)`         | Largura da linha do gráfico.                                       |
-| `plt.scatter()`          | `s`               | `plt.scatter(x, y, s=50)`             | Tamanho dos pontos no gráfico de dispersão.                        |
-|                          | `c`               | `plt.scatter(x, y, c='blue')`         | Cor dos pontos no gráfico de dispersão.                            |
-|                          | `alpha`           | `plt.scatter(x, y, alpha=0.5)`         | Transparência dos pontos no gráfico de dispersão.                  |
-| `plt.bar()`              | `x`               | `plt.bar(x, height)`                  | Valores das coordenadas x dos retângulos das barras.               |
-|                          | `height`          |                                      | Altura das barras.                                                 |
-|                          | `color`           | `plt.bar(x, height, color='green')`    | Cor das barras.                                                    |
-| `plt.hist()`             | `x`               | `plt.hist(x, bins=10)`                | Valores dos dados a serem histogramados.                           |
-|                          | `bins`            |                                      | Número de intervalos (bins) do histograma.                         |
-|                          | `color`           | `plt.hist(x, bins=10, color='yellow')` | Cor das barras do histograma.                                      |
-| `plt.pie()`              | `x`               | `plt.pie(x, labels=labels)`            | Valores dos dados para o gráfico de pizza.                         |
-|                          | `labels`          |                                      | Rótulos dos setores do gráfico de pizza.                           |
-|                          | `colors`          | `plt.pie(x, labels=labels, colors=colors)` | Cores dos setores do gráfico de pizza.                          |
-| `plt.boxplot()`          | `x`               | `plt.boxplot(x)`                      | Valores dos dados para o gráfico de boxplot.                       |
-|                          | `labels`          |                                      | Rótulos dos eixos x do gráfico de boxplot.                         |
-|                          | `notch`           | `plt.boxplot(x, notch=True)`           | Indica se o gráfico de boxplot deve ter uma entalhe (notch) na caixa. |
-| `plt.xlabel()`           | `label`           | `plt.xlabel('Eixo X')`                | Texto do rótulo do eixo x.                                         |
-| `plt.ylabel()`           | `label`           | `plt.ylabel('Eixo Y')`                | Texto do rótulo do eixo y.                                         |
-| `plt.title()`            | `label`           | `plt.title('Título do Gráfico')`       | Texto do título do gráfico.                                        |
-| `plt.legend()`           | `labels`          | `plt.legend(labels)`                  | Rótulos das legendas.                                              |
-| `plt.grid()`             | `axis`            | `plt.grid(axis='both')`               | Eixos nos quais as linhas de grade serão desenhadas.               |
-|                          | `color`           |                                      | Cor das linhas de grade.                                           |
+| Method/Function          | Parameter        | Example Usage                               | Explanation                                                       |
+|--------------------------|-------------------|--------------------------------------------|-------------------------------------------------------------------|
+| `plt.plot()`             | `color`           | `plt.plot(x, y, color='red')`              | Color of the graph line.                                          |
+|                          | `linestyle`       | `plt.plot(x, y, linestyle='--')`           | Line style of the graph.                                          |
+|                          | `linewidth`       | `plt.plot(x, y, linewidth=2)`              | Line width of the graph.                                          |
+| `plt.scatter()`          | `s`               | `plt.scatter(x, y, s=50)`                  | Size of the points in the scatter plot.                           |
+|                          | `c`               | `plt.scatter(x, y, c='blue')`              | Color of the points in the scatter plot.                          |
+|                          | `alpha`           | `plt.scatter(x, y, alpha=0.5)`             | Transparency of the points in the scatter plot.                   |
+| `plt.bar()`              | `x`               | `plt.bar(x, height)`                       | Values of the x-coordinates of the bar rectangles.                |
+|                          | `height`          |                                            | Height of the bars.                                               |
+|                          | `color`           | `plt.bar(x, height, color='green')`        | Color of the bars.                                                |
+| `plt.hist()`             | `x`               | `plt.hist(x, bins=10)`                     | Values of the data to be histogrammed.                            |
+|                          | `bins`            |                                            | Number of intervals (bins) in the histogram.                      |
+|                          | `color`           | `plt.hist(x, bins=10, color='yellow')`     | Color of the bars in the histogram.                               |
+| `plt.pie()`              | `x`               | `plt.pie(x, labels=labels)`                | Values of the data for the pie chart.                             |
+|                          | `labels`          |                                            | Labels for the sectors in the pie chart.                          |
+|                          | `colors`          | `plt.pie(x, labels=labels, colors=colors)` | Colors of the sectors in the pie chart.                           |
+| `plt.boxplot()`          | `x`               | `plt.boxplot(x)`                           | Values of the data for the boxplot.                               |
+|                          | `labels`          |                                            | Labels for the x-axis of the boxplot.                             |
+|                          | `notch`           | `plt.boxplot(x, notch=True)`               | Indicates whether the boxplot should have a notch.                |
+| `plt.xlabel()`           | `label`           | `plt.xlabel('X-axis')`                     | Text of the x-axis label.                                         |
+| `plt.ylabel()`           | `label`           | `plt.ylabel('Y-axis')`                     | Text of the y-axis label.                                         |
+| `plt.title()`            | `label`           | `plt.title('Chart Title')`                 | Text of the chart title.                                          |
+| `plt.legend()`           | `labels`          | `plt.legend(labels)`                       | Labels for the legends.                                           |
+| `plt.grid()`             | `axis`            | `plt.grid(axis='both')`                    | Axes on which grid lines will be drawn.                           |
+|                          | `color`           |                                            | Color of the grid lines.                                          |
